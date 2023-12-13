@@ -28,7 +28,7 @@ twitter_username: rahulsingh2892
 github_username: srahuliitb
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
