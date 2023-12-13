@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Education
-permalink: /education/
+permalink: https://srahuliitb.github.io/education/
 ---
 

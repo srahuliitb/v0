@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Work Experience
-permalink: /workexperience/
+permalink: https://srahuliitb.github.io/workexperience/
 ---

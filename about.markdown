@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: https://srahuliitb.github.io/about/
 ---
