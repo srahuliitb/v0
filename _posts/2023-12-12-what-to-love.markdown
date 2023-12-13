@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Love the Subject!"
+title:  "Love the Subject"
 date:   2023-12-12 14:30:00 +0000
 categories: jekyll update
 ---
