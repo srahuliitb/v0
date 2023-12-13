@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<img alt="my picture" src="at_windsor_terrace.jpg" width="232" height="309">

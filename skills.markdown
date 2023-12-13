@@ -4,6 +4,12 @@ title: Skills
 permalink: /skills/
 ---
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 Python, Java, PySpark
 SQL, GraphQL
 HTML, CSS, JavaScript
