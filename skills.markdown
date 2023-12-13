@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skills
-permalink: https://srahuliitb.github.io/skills/
+permalink: /skills/
 ---
 
 Python, Java, PySpark
